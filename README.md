@@ -8,15 +8,15 @@ A desktop-based **College Management System** built in **Java (Swing)** that pro
 
 | Login Screen | Main Dashboard |
 |---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Login](Screenshots/Login.png) | ![Dashboard](Screenshots/Dashboard.png) |
 
 | New Teacher Registration | Student Records |
 |---|---|
-| ![Teacher Form](screenshots/new_teacher.png) | ![Students](screenshots/student_records.png) |
+| ![Teacher Form](Screenshots/TeacherForm.png) | ![Students](Screenshots/Students.png) |
 
 | Apply Leave | Examination Results |
 |---|---|
-| ![Apply Leave](screenshots/apply_leave.png) | ![Results](screenshots/results.png) |
+| ![Apply Leave](Screenshots/ApplyLeave.png) | ![Results](Screenshots/Results.png) |
 
 ---
 
